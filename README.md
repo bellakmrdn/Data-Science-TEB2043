@@ -11,8 +11,9 @@ ID : 22011843
 | 06/2/2026 | LAB 3      | - Exam Score <br> - Max Min Avg <br> - Chemistry & Physics|
 | 13/2/2025 | LAB 4      |  |
 | 16/2/2025 | LAB 5      | - Leap Year <br>  - Cube  <br> - Armstrong Number |
-| 16/2/2025 | PROJECT 1  | - Cleaning dataset from Kaggle           |
+| 16/2/2025 | PROJECT 1  | - Cleaning dataset from Kaggle <br> - POWER BI Dashboard |
                    
+
 
 
 
