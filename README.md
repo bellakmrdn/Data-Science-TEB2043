@@ -12,6 +12,7 @@ ID : 22011843
 | 13/2/2025 | LAB 4      | - Record of Retirement Age <br> - Basic Arithmetic Operations of Matrix <br> - Printing Array of Matrices|
 | 16/2/2025 | LAB 5      | - Leap Year <br>  - Cube  <br> - Armstrong Number |
 | 16/2/2025 | PROJECT 1  | - Cleaning dataset from Kaggle <br> - POWER BI Dashboard |
+| 27/2/2025 | LAB 6  | - Creating data frame <br> - Adding new column <br> - Adding new row <br> - Data Insights |
                    
 
 
