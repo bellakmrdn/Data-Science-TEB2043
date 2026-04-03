@@ -10,9 +10,13 @@ ID : 22011843
 | 06/2/2026 | LAB 2      | - BMI <br> - String Comparison <br> - Masked Phone Number     |
 | 06/2/2026 | LAB 3      | - Exam Score <br> - Max Min Avg <br> - Chemistry & Physics|
 | 13/2/2025 | LAB 4      | - Record of Retirement Age <br> - Basic Arithmetic Operations of Matrix <br> - Printing Array of Matrices|
-| 16/2/2025 | LAB 5      | - Leap Year <br>  - Cube  <br> - Armstrong Number |
-| 16/2/2025 | PROJECT 1  | - Cleaning dataset from Kaggle <br> - POWER BI Dashboard |
-| 27/2/2025 | LAB 6  | - Creating data frame <br> - Adding new column <br> - Adding new row <br> - Data Insights |
+| 16/2/2026 | LAB 5      | - Leap Year <br>  - Cube  <br> - Armstrong Number |
+| 16/2/2026 | PROJECT 1  | - Cleaning dataset from Kaggle <br> - POWER BI Dashboard |
+| 27/2/2026 | LAB 6  | - Creating data frame <br> - Adding new column <br> - Adding new row <br> - Data Insights |
+| 04/3/2026 | LAB 7      | - Titanic Dataset Manipulation|
+| 16/2/2026 | LAB 8      | - Orange Dataset Manipulation <br> - Titanic Dataset Visualization |
+| 16/2/2026 | LAB 9      | - mtcars Normalization <br>  - ToothGrowth Correlation |
+| 27/3/2026 | LAB 10     | - Chickweight KNN <br>  - Theoph Linear Regression |
                    
 
 
