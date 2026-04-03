@@ -14,8 +14,8 @@ ID : 22011843
 | 16/2/2026 | PROJECT 1  | - Cleaning dataset from Kaggle <br> - POWER BI Dashboard |
 | 27/2/2026 | LAB 6  | - Creating data frame <br> - Adding new column <br> - Adding new row <br> - Data Insights |
 | 04/3/2026 | LAB 7      | - Titanic Dataset Manipulation|
-| 16/2/2026 | LAB 8      | - Orange Dataset Manipulation <br> - Titanic Dataset Visualization |
-| 16/2/2026 | LAB 9      | - mtcars Normalization <br>  - ToothGrowth Correlation |
+| 19/3/2026 | LAB 8      | - Orange Dataset Manipulation <br> - Titanic Dataset Visualization |
+| 19/3/2026 | LAB 9      | - mtcars Normalization <br>  - ToothGrowth Correlation |
 | 27/3/2026 | LAB 10     | - Chickweight KNN <br>  - Theoph Linear Regression |
                    
 
